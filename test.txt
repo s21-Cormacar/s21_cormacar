@@ -1,0 +1,5 @@
+pravilo 1
+pravilo 2
+pravilo 3
+pravilo 4
+pravilo 5
